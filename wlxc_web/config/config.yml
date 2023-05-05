@@ -1,0 +1,18 @@
+excel:
+  file: web_cases.xlsx
+
+logger:
+  name: "WLXC"
+  file: "WLXC.txt"
+  logger_level: "DEBUG"
+  stream_level: "DEBUG"
+  file_level: "INFO"
+
+user:
+  username: "admin"
+  password: "hh123456"
+
+selenium:
+  wait_time: 20
+
+host: "https://dtglobe.cn/wzyq-zygl-region/#"
